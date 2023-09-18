@@ -1,0 +1,135 @@
+N Language              ISO-639 code Text
+----------------------------------------------------------------------
+1  af           afrikaans                      Goeie middag                                      
+2  sq           albanian                       Mirembrema                                        
+3  am           amharic                        እንደምን አረፈድክ                                       
+4  ar           arabic                         مساء الخير                                        
+5  hy           armenian                       Բարի օր                                           
+6  as           assamese                       শুভ আবেলি                                         
+7  ay           aymara                         Aski jayp'u                                       
+8  az           azerbaijani                    Günortanız Xeyir                                  
+9  bm           bambara                        I ni wula                                         
+10 eu           basque                         Arratsalde on                                     
+11 be           belarusian                     Добры дзень                                       
+12 bn           bengali                        শুভ অপরাহ্ন                                       
+13 bho          bhojpuri                       शुभ दूपहरिया                                      
+14 bs           bosnian                        Dobar dan                                         
+15 bg           bulgarian                      Добър ден                                         
+16 ca           catalan                        Bona tarda                                        
+17 ceb          cebuano                        Maayong hapon                                     
+18 ny           chichewa                       Masana abwino                                     
+19 zh-CN        chinese (simplified)           下午好                                               
+20 zh-TW        chinese (traditional)          午安                                                
+21 co           corsican                       Bonghjornu                                        
+22 hr           croatian                       Dobar dan                                         
+23 cs           czech                          Dobré odpoledne                                   
+24 da           danish                         God eftermiddag                                   
+25 dv           dhivehi                        ބާއްޖަވެރި މެންދުރުފަހެއް                         
+26 doi          dogri                          शुभ दपैहर                                         
+27 nl           dutch                          Goedemiddag                                       
+28 en           english                        Good afternoon                                    
+29 eo           esperanto                      Bonan posttagmezon                                
+30 et           estonian                       Tere päevast                                      
+31 ee           ewe                            Ŋdᴐ                                               
+32 tl           filipino                       Magandang hapon                                   
+33 fi           finnish                        Hyvää iltapäivää                                  
+34 fr           french                         Bon après-midi                                    
+35 fy           frisian                        Goeiemiddei                                       
+36 gl           galician                       Boas tardes                                       
+37 ka           georgian                       Საღამო მშვიდობისა                                 
+38 de           german                         Guten Tag                                         
+39 el           greek                          Καλό απόγευμα                                     
+40 gn           guarani                        Tandeka'aru porãite                               
+41 gu           gujarati                       શુભ બપોર                                          
+42 ht           haitian creole                 Bon apremidi                                      
+43 ha           hausa                          Barka da rana                                     
+44 haw          hawaiian                       Aloha awakea, Aloha Auinalā                       
+45 iw           hebrew                         אחר הצהריים טובים                                 
+46 hi           hindi                          शुभ दोपहर                                         
+47 hmn          hmong                          Nyob zoo tav su                                   
+48 hu           hungarian                      Jó napot                                          
+49 is           icelandic                      Góðan daginn                                      
+50 ig           igbo                           Ehihie ọma                                        
+51 ilo          ilocano                        Naimbag a malem                                   
+52 id           indonesian                     Selamat siang                                     
+53 ga           irish                          Tráthnóna maith                                   
+54 it           italian                        Buon pomeriggio                                   
+55 ja           japanese                       こんにちは                                             
+56 jw           javanese                       sugeng sonten                                     
+57 kn           kannada                        ಶುಭ ಅಪರಾಹ್ನ                                       
+58 kk           kazakh                         Қайырлы күн                                       
+59 km           khmer                          អរុណសួស្តី                                        
+60 rw           kinyarwanda                    Mwaramutse                                        
+61 gom          konkani                        शुभ दनपार                                         
+62 ko           korean                         좋은 오후에요                                           
+63 kri          krio                           Gud aftanun                                       
+64 ku           kurdish (kurmanji)             Paş nîvro                                         
+65 ckb          kurdish (sorani)               دوای نیوەڕت باش                                   
+66 ky           kyrgyz                         Кайырдуу күн                                      
+67 lo           lao                            ສະ​ບາຍ​ດີ​ຕອນ​ສວາຍ                                
+68 la           latin                          Bona dies                                         
+69 lv           latvian                        Labdien                                           
+70 ln           lingala                        Nsima ya nzanga malamu                            
+71 lt           lithuanian                     Laba diena                                        
+72 lg           luganda                        Osiibye otya                                      
+73 lb           luxembourgish                  Gudde Mëtteg                                      
+74 mk           macedonian                     Добар ден                                         
+75 mai          maithili                       नमस्कार                                           
+76 mg           malagasy                       Salama                                            
+77 ms           malay                          Selamat petang                                    
+78 ml           malayalam                      ഗുഡ് ആഫ്റ്റർനൂൺ                                   
+79 mt           maltese                        Il-waranofsinhar it-tajjeb                        
+80 mi           maori                          Kia pai te ahiahi                                 
+81 mr           marathi                        शुभ दुपार                                         
+82 mni-Mtei     meiteilon (manipuri)           ꯈꯨꯔꯨꯝꯖꯔꯤ                                          
+83 lus          mizo                           Chawhnulam chibai                                 
+84 mn           mongolian                      Өдрийн мэнд                                       
+85 my           myanmar                        မင်္ဂလာနေ့လည်ခင်းပါ                               
+86 ne           nepali                         शुभ दिउँसो                                        
+87 no           norwegian                      God ettermiddag                                   
+88 or           odia (oriya)                   ଶୁଭ ଅପରାହ୍ନ |                                     
+89 om           oromo                          Akkam ooltan                                      
+90 ps           pashto                         بعد له غرمه مو پخیر                               
+91 fa           persian                        عصر بخیر                                          
+92 pl           polish                         Dzień dobry                                       
+93 pt           portuguese                     Boa tarde                                         
+94 pa           punjabi                        ਨਮਸਕਾਰ                                            
+95 qu           quechua                        Rimaykullayki                                     
+96 ro           romanian                       Bună ziua                                         
+97 ru           russian                        Good afternoon                                    
+98 sm           samoan                         Manuia le aoauli                                  
+99 sa           sanskrit                       नमस्कारः                                          
+100 gd           scots gaelic                   Feasgar math                                      
+101 nso          sepedi                         Thobela                                           
+102 sr           serbian                        Добар дан                                         
+103 st           sesotho                        Lumelang                                          
+104 sn           shona                          Masikati akanaka                                  
+105 sd           sindhi                         منجهند جو سلام                                    
+106 si           sinhala                        සුභ සන්ධ්යාවක්                                    
+107 sk           slovak                         Dobrý deň                                         
+108 sl           slovenian                      Dober večer                                       
+109 so           somali                         Galab wanaagsan                                   
+110 es           spanish                        Buenas tardes                                     
+111 su           sundanese                      Wilujeng sonten                                   
+112 sw           swahili                        Habari za mchana                                  
+113 sv           swedish                        God eftermiddag                                   
+114 tg           tajik                          Нимирӯзи ба хайр                                  
+115 ta           tamil                          மதிய வணக்கம்                                      
+116 tt           tatar                          Хәерле иртә                                       
+117 te           telugu                         శుభ మద్యాహ్నం                                     
+118 th           thai                           สวัสดีตอนบ่าย                                     
+119 ti           tigrinya                       ከመይ ውዒሎም                                          
+120 ts           tsonga                         Nhlikanhi lowunene                                
+121 tr           turkish                        Tünaydın                                          
+122 tk           turkmen                        Günüňiz haýyrly bolsun!                           
+123 ak           twi                            Mema wo aha                                       
+124 uk           ukrainian                      Good afternoon                                    
+125 ur           urdu                           صبح بخیر                                          
+126 ug           uyghur                         خەيرلىك چۈشتىن كېيىن                              
+127 uz           uzbek                          Hayrli kun                                        
+128 vi           vietnamese                     Chào buổi chiều                                
+129 cy           welsh                          Prynhawn Da                                       
+130 xh           xhosa                          Mholo                                             
+131 yi           yiddish                        א גוטן מיטאג                                      
+132 yo           yoruba                         E kaasan                                          
+133 zu           zulu                           Sawubona                                          

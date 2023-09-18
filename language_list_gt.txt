@@ -1,0 +1,109 @@
+N Language              ISO-639 code Text
+----------------------------------------------------------------------
+1  afrikaans              af             Dit is middag
+2  albanian               sq             Është pasdite
+3  amharic                am             ከሰአት በኋላ ነው።
+4  arabic                 ar             انها بعد الظهر
+5  armenian               hy             Կեսօր է
+6  azerbaijani            az             Günortadır
+7  basque                 eu             Arratsaldea da
+8  belarusian             be             Ужо пасля абеду
+9  bengali                bn             বিকেল হয়ে গেছে
+10 bosnian                bs             Popodne je
+11 bulgarian              bg             Следобед е
+12 catalan                ca             És tarda
+13 cebuano                ceb            hapon na
+14 chichewa               ny             Ndi madzulo
+15 chinese (simplified)   zh-cn          现在是下午
+16 chinese (traditional)  zh-tw          現在是下午
+17 corsican               co             Hè dopu meziornu
+18 croatian               hr             Poslijepodne je
+19 czech                  cs             Je odpoledne
+20 danish                 da             Det er eftermiddag
+21 dutch                  nl             Het is middag
+22 english                en             It's afternoon
+23 esperanto              eo             Estas posttagmezo
+24 estonian               et             On pärastlõuna
+25 filipino               tl             Hapon na
+26 finnish                fi             On iltapäivä
+27 french                 fr             C'est l'après-midi
+28 frisian                fy             It is middei
+29 galician               gl             É a tarde
+30 georgian               ka             შუადღეა
+31 german                 de             Es ist Nachmittag
+32 greek                  el             Είναι απόγευμα
+33 gujarati               gu             બપોર થઈ ગઈ
+34 haitian creole         ht             Li nan apremidi
+35 hausa                  ha             La'asar ce
+36 hawaiian               haw            ʻO ke ahiahi
+37 hebrew                 iw             זה אחר הצהריים
+38 hebrew                 he             זה אחר הצהריים
+39 hindi                  hi             दोपहर हो गई है
+40 hmong                  hmn            Nws yog tav su
+41 hungarian              hu             Délután van
+42 icelandic              is             Það er síðdegis
+43 igbo                   ig             Ọ bụ ehihie
+44 indonesian             id             Ini sore hari
+45 irish                  ga             Tá sé tráthnóna
+46 italian                it             È pomeriggio
+47 japanese               ja             午後です
+48 javanese               jw             Wis awan
+49 kannada                kn             ಇದು ಮಧ್ಯಾಹ್ನ
+50 kazakh                 kk             Түс болды
+51 khmer                  km             រសៀល
+52 korean                 ko             오후다
+53 kurdish (kurmanji)     ku             Piştî nîvro ye
+54 kyrgyz                 ky             Түштөн кийин
+55 lao                    lo             ມັນແມ່ນຕອນບ່າຍ
+56 latin                  la             Suus 'meridiem
+57 latvian                lv             Ir pēcpusdiena
+58 lithuanian             lt             Jau popietė
+59 luxembourgish          lb             Et ass Mëtteg
+60 macedonian             mk             Попладне е
+61 malagasy               mg             Tolakandro izao
+62 malay                  ms             Dah petang
+63 malayalam              ml             ഉച്ചയായി
+64 maltese                mt             Wasal wara nofsinhar
+65 maori                  mi             Kua ahiahi
+66 marathi                mr             दुपारची वेळ
+67 mongolian              mn             Үд болж байна
+68 myanmar (burmese)      my             မွန်းလွဲပြီ။
+69 nepali                 ne             दिउँसो भयो
+70 norwegian              no             Det er ettermiddag
+71 odia                   or             ଏହା ଅପରାହ୍ନ |
+72 pashto                 ps             ماسپښین دی
+73 persian                fa             بعدازظهر است
+74 polish                 pl             Jest popołudnie
+75 portuguese             pt             É tarde
+76 punjabi                pa             ਦੁਪਹਿਰ ਦਾ ਸਮਾਂ ਹੈ
+77 romanian               ro             E după-amiază
+78 russian                ru             Год афтерноон
+79 samoan                 sm             O le aoauli
+80 scots gaelic           gd             'S e feasgar a th' ann
+81 serbian                sr             Поподне је
+82 sesotho                st             Ke thapama
+83 shona                  sn             Masikati
+84 sindhi                 sd             منجهند جو وقت آهي
+85 sinhala                si             එය දහවල්ය
+86 slovak                 sk             Je poobedie
+87 slovenian              sl             Popoldan je
+88 somali                 so             Waa galab
+89 spanish                es             es la tarde
+90 sundanese              su             Wanci soré
+91 swahili                sw             Ni mchana
+92 swedish                sv             Det är eftermiddag
+93 tajik                  tg             Нимаи нисфирӯзӣ аст
+94 tamil                  ta             மதியம் ஆகிவிட்டது
+95 telugu                 te             మధ్యాహ్నం అయింది
+96 thai                   th             บ่ายแล้ว
+97 turkish                tr             Öğleden sonra
+98 ukrainian              uk             Год афтерноон
+99 urdu                   ur             دوپہر کا وقت ہے۔
+100 uyghur                 ug             چۈشتىن كېيىن
+101 uzbek                  uz             Tush bo‘ldi
+102 vietnamese             vi             Trời về chiều
+103 welsh                  cy             Mae'n brynhawn
+104 xhosa                  xh             Kusemva kwemini
+105 yiddish                yi             עס איז נאָכמיטאָג
+106 yoruba                 yo             Osan ni
+107 zulu                   zu             Kuntambama

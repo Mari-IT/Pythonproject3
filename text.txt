@@ -1,0 +1,8 @@
+Python ranked #1 on the IEEE Spectrum list of top programming languages for 2019.
+Today, we’ll take up some interesting facts about python programming to better understand what makes it so popular.
+Python is getting popular, almost every industry is using it. It is the advice of experts to start learning python as soon as possible.
+Below are the 3 most interesting facts about Python Programming that you should know:
+1. Python was a hobby project.
+2. Big Companies Using Python: NASA, Google, Nokia, IBM, Yahoo! Maps, Walt Disney Feature Animation, Facebook.
+3. Python was a hobby. Guido Van Rossum (his creator) was looking for a project to keep him occupied during his free time on Christmas.
+The most popular language right now was born as a hobby. Isn’t incredible?!

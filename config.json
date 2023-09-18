@@ -1,0 +1,8 @@
+{
+    "text_file": "text.txt",
+    "target_language": "uk",
+    "output": "screen",
+    "min_characters": 600,
+    "min_words": 100,
+    "min_sentences": 5
+}
